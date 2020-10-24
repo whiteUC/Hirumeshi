@@ -1,3 +1,14 @@
 {
-    "python.pythonPath": "C:\\Users\\yushi\\anaconda3\\envs\\Django\\python.exe"
+    "python.pythonPath": "C:\\Users\\yushi\\anaconda3\\envs\\Django\\python.exe",
+    "emmet.includeLanguages": {
+    "django-html": "html",
+},
+"vim.insertModeKeyBindings": [
+    {
+        "before": ["j", "j"],
+        "after": ["<Esc>"]
+    }
+],
+
+"vim.hlsearch": true
 }
